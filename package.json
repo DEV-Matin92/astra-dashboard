@@ -1,3 +1,4 @@
+
 {
   "name": "@astra-litejs/dashboard",
   "version": "0.0.1",
@@ -6,6 +7,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Martin92, Soli",
+  "author": "Martin92, Soli-64",
   "license": "ISC"
 }
