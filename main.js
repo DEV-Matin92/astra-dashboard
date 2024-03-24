@@ -1,0 +1,1 @@
+exports.DashboardBuilder = require("./src/client/DashboardBuilder")
